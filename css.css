@@ -107,3 +107,19 @@ button:hover{
 button#shuffle:hover{
  background: #E66;
 }
+
+footer {
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   text-align: center;
+}
+footer p{
+   font-size: 18px;
+}
+footer p a{
+   text-decoration: none;
+   font-style: italic;
+   color: #242227;
+}
